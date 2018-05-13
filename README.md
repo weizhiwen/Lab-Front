@@ -1,3 +1,2 @@
-# frontlib
-实验室管理系统前端测试页面
-Page页面网址：http://wenshixin.gitee.io/frontlib/
+# 开放式实验室系统前台
+前台预览网址：http://wenshixin.gitee.io/frontlib/
